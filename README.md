@@ -6,5 +6,5 @@ __`tech stack:`__  `EDA`, `A/B test`: t-test, `Python`: Jupyter Notebook (pandas
 
 __`steps:`__ <br>
 • performing EDA, <br>
-• selecting, calculating metrics (CR, ARPU, average order value), and conducting A/B tests (chi2, t-test), <br>
+• selecting, calculating metrics (average number of orders, average order value, revenue), and conducting A/B tests (t-test), <br>
 • reaching conclusions.
